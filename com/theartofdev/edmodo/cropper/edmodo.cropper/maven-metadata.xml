@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.theartofdev.edmodo.cropper</groupId>
+  <artifactId>edmodo.cropper</artifactId>
+  <versioning>
+    <release>2.8.0</release>
+    <versions>
+      <version>2.8.0</version>
+    </versions>
+    <lastUpdated>20240823152017</lastUpdated>
+  </versioning>
+</metadata>
